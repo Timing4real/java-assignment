@@ -1,0 +1,9 @@
+/* style.css */
+
+.gridRow {
+    border: 1px solid green;
+}
+
+.cell {
+    border: 1px solid blue;
+}
